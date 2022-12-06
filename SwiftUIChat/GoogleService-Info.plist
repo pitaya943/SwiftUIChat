@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>661720893829-p5c5hebt9kc29qn8lvvo89as0dqi9voj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.661720893829-p5c5hebt9kc29qn8lvvo89as0dqi9voj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBqCQdwmy67-V-5Zs2mKkZewLRHDgW5qzs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>661720893829</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pitaya.SwiftUIChat</string>
+	<key>PROJECT_ID</key>
+	<string>swiftuichatmvvm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftuichatmvvm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:661720893829:ios:d52640752dc001d7e49cec</string>
+</dict>
+</plist>
